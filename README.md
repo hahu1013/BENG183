@@ -1,5 +1,6 @@
-# BENG183
-Lecture materials
-and other documentation
+# RNA-seq visulization
 
-Fall 2018 
+## Overview
+
+This handout will illustrate the introdution for RNA-sequencing and covered detailed information on three types of visualizations:
+1. 
